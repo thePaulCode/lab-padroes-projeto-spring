@@ -4,3 +4,7 @@ Repositório com as implementações dos padrões de projeto explorados no Lab "
 - Singleton
 - Strategy/Repository
 - Facade
+
+Abordagens: Integração do Banco de Dados H2 e API do ViaCep aplicados a uma API REST.
+
+Documentação: Swagger.
